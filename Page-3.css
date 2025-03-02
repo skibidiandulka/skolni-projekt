@@ -1,0 +1,123 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 594px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  margin: 27px auto 0 137px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  margin: -43px 12px 0 auto;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 1752px;
+  height: 309px;
+  --top-left-radius: 40px;
+  --bottom-left-radius: 40px;
+  box-shadow: 0px 10px 21px 4px rgba(0,0,0,0.4);
+  background-image: none;
+  margin: 54px -1034px 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 303px;
+  height: 404px;
+  --radius: 50px;
+  margin: -356px auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: -320px 20px 60px 465px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: 95px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 27px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    --radius: 40px;
+    height: 357px;
+    margin-top: 63px;
+    margin-right: -1117px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -404px;
+    margin-left: -25px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -314px;
+    margin-right: 27px;
+    margin-left: 349px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 156px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-shape-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.1111111111111112rem;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1082px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 82px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -111px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 920px;
+    height: 428px;
+    margin-top: 513px;
+    margin-right: -556px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -894px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 87px;
+    margin-right: -13px;
+    margin-left: 13px;
+  }
+}
